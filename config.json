@@ -35,22 +35,30 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100005193854879"
+    "100073154403246",
+    "61571038690361",
+    "",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100005193854879"
+      "100073154403246",
+      "61571038690361",
+      "",
+      "",
+      ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ツ",
+  "nickNameBot": "",
   "prefix": "?",
   "BaYjidapi": "https://bayjid-hd.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯🤡",
+  "authorName": "𝐘𝐨𝐮𝐫 卝 𝐖𝐢𝐟𝐢 ࿐ツ🙊💋",
   "facebook2": "https://www.facebook.com/BAYJID.404",
   "facebook": "https://www.facebook.com/BAYJID.404",
   "email": "ewrbiju@gmail.com",
