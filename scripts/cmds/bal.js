@@ -14,7 +14,7 @@ module.exports = {
  onChat: async function({ event, message, getLang }) {
  if (event.body && event.body.toLowerCase() === "bal") {
  return message.reply({
- body: " 「 FUCK YOU 😰🖕\n\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥\n𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐘𝐉𝐈𝐃」",
+ body: " 「 FUCK YOU 😰🖕\n\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥\n𝐄𝐬𝐭𝐞𝐢𝐯𝐞𝐫𝐱𝐞 𝐋𝐨𝐦𝐢𝐧𝐨𝐮𝐬 𝐈𝐈」",
  attachment: await global.utils.getStreamFromURL("https://i.imgur.com/SBupaKE.jpeg")
  });
  }
