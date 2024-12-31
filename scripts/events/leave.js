@@ -19,13 +19,13 @@ module.exports = {
 			defaultLeaveMessage: "{userName} đã {type} khỏi nhóm"
 		},
 		en: {
-			session1: "morning",
-			session2: "noon",
-			session3: "afternoon",
-			session4: "evening",
-			leaveType1: "left",
-			leaveType2: "was kicked from",
-			defaultLeaveMessage: "{userName} {type} the group"
+			session1: "𝕄𝕠𝕣𝕟𝕚𝕟𝕘",
+			session2: "ℕ𝕠𝕠𝕟",
+			session3: "𝔸𝕗𝕥𝕖𝕣𝕟𝕠𝕠𝕟",
+			session4: "𝔼𝕧𝕖𝕟𝕚𝕟𝕘",
+			leaveType1: "𝕃𝕖𝕗𝕥",
+			leaveType2: "𝕎𝕒𝕤 𝕜𝕚𝕔𝕜𝕖𝕕 𝔽𝕣𝕠𝕞",
+			defaultLeaveMessage: "➪🔵{userName}🔴 {type} 𝕋𝕙𝕖 𝔾𝕣𝕠𝕦𝕡🐸(𝕄𝕦𝕣𝕘𝕚 𝕧𝕒𝕘 𝕘𝕖𝕪𝕒)⚠️"
 		}
 	},
 
